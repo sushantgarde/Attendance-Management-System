@@ -164,7 +164,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 👤 Author
 
-**Your Name**  
+**Sushant Garde**  
 Software Developer passionate about creating impactful and efficient applications.  
 - **Email**: [gardesushant1@gmail.com](mailto:gardesushant1@gmail.com)  
 - **LinkedIn**: [Sushant Garde](https://linkedin.com/in/sushantgarde)  
